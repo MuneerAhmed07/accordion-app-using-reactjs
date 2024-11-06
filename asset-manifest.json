@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/accordion-app-using-reactjs/static/css/main.21ac001d.css",
+    "main.js": "/accordion-app-using-reactjs/static/js/main.d62649d8.js",
+    "static/js/453.8585abbc.chunk.js": "/accordion-app-using-reactjs/static/js/453.8585abbc.chunk.js",
+    "index.html": "/accordion-app-using-reactjs/index.html",
+    "main.21ac001d.css.map": "/accordion-app-using-reactjs/static/css/main.21ac001d.css.map",
+    "main.d62649d8.js.map": "/accordion-app-using-reactjs/static/js/main.d62649d8.js.map",
+    "453.8585abbc.chunk.js.map": "/accordion-app-using-reactjs/static/js/453.8585abbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21ac001d.css",
+    "static/js/main.d62649d8.js"
+  ]
+}
